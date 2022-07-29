@@ -1,4 +1,4 @@
-# Basic-toDoList-ReactNative
+# Simple ToDoList with ReactNative
 
 A basic todo list. Made with React Native.
 You can add what you will do. 
